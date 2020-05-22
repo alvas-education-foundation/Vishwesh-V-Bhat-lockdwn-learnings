@@ -1,4 +1,4 @@
-#Objective: WAP to verify Username and Password, Username = 'Micheal' and Password = 'e3$WT89x'.
+#Objective: WAP to verify Username and Password, Username = 'Micheal' and Password = 'e3$WT89x', and with just 3 attempts for the user.
 
 user_name = "Micheal"
 user_input = input("Enter username : ".upper())
